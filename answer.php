@@ -52,6 +52,9 @@
         </div>
         <div class="page-content">The answer is ...</div>
         <br />
+        <div class="page-content-answer">
+          <a href="./index.php">Return ...</a>
+        </div>
       </main>
     </div>
   </body>
