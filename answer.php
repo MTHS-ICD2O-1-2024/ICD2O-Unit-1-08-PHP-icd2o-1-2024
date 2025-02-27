@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- ICS2O-Unit1-05-HTML-MDL -->
+<!-- ICS2O-Unit1-08-HTML-MDL -->
 <html lang="en-ca">
   <head>
     <meta charset="utf-8" />
@@ -39,7 +39,6 @@
 
   <body>
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
-    <script src="./js/script.js"></script>
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
       <header class="mdl-layout__header">
         <div class="mdl-layout__header-row">
